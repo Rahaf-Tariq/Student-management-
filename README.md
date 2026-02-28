@@ -65,9 +65,12 @@ crudSystem/
 ```
 
 ---
+## Project demo video 
+https://drive.google.com/file/d/1hO0V9kgHjiFMOB821ytXXGjFKm_IFyNH/view?usp=sharing
 
 ## Notes
 
 - No frameworks or external libraries used.
 - All database operations handled through PHP with MySQLi.
 - Database and table are created automatically if they do not exist.
+
